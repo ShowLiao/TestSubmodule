@@ -1,0 +1,3 @@
+[submodule "app/src/main/libusb"]
+	path = app/libusb
+	url = https://android.googlesource.com/platform/external/libusb
